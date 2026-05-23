@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_lightning_mage_state_fighting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_lightning_mage_state_fighting",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

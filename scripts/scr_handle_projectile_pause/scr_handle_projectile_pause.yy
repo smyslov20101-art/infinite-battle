@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_handle_projectile_pause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_handle_projectile_pause",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

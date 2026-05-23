@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"move_towards_point1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"move_towards_point1",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

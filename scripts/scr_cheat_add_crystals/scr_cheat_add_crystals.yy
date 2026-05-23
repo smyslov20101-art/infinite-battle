@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_cheat_add_crystals",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_cheat_add_crystals",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

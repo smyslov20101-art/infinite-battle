@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_create_enemy_arrow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_create_enemy_arrow",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

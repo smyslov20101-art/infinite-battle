@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_calculate_boss_rewards",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_calculate_boss_rewards",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

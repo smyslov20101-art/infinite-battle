@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_get_random_heroes_by_rarity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_random_heroes_by_rarity",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
